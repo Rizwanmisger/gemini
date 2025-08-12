@@ -11,7 +11,7 @@ To get started with this project, you will need to have Java 17 and Maven instal
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/gemini.git
+git clone https://github.com/Rizwanmisger/gemini
 ```
 
 2. Navigate to the project directory:
